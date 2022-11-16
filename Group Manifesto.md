@@ -10,6 +10,7 @@ Robin van Hoof
 
 Jochem Last
 > - Strong sides: Environment design
+> - Role: Scene Master
 
 Tjerk Zeilstra
 > - Strong sides: All-round software engineer
